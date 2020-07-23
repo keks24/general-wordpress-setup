@@ -1,2 +1,2 @@
 # general-wordpress-setup
-More or less requried configuration files for `WordPress`.
+more or less requried configuration files for `wordpress`.
